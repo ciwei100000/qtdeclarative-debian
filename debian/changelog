@@ -1,6 +1,7 @@
 qtdeclarative-opensource-src (5.9.4-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release.
+  * Bump qtdeclarative-abi-5-9-3 -> qtdeclarative-abi-5-9-4.
 
  -- Simon Quigley <tsimonq2@ubuntu.com>  Wed, 31 Jan 2018 23:05:19 -0600
 
