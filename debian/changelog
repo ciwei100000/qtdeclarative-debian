@@ -1,9 +1,9 @@
-qtdeclarative-opensource-src (5.9.4-0ubuntu1) UNRELEASED; urgency=medium
+qtdeclarative-opensource-src (5.9.4-0ubuntu1) bionic; urgency=medium
 
   * New upstream release.
   * Bump qtdeclarative-abi-5-9-3 -> qtdeclarative-abi-5-9-4.
 
- -- Simon Quigley <tsimonq2@ubuntu.com>  Wed, 31 Jan 2018 23:05:19 -0600
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Sun, 25 Feb 2018 00:04:50 -0600
 
 qtdeclarative-opensource-src (5.9.3-0ubuntu1) bionic; urgency=medium
 
