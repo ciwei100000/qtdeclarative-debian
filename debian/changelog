@@ -4,6 +4,7 @@ qtdeclarative-opensource-src (5.9.5-0ubuntu1) UNRELEASED; urgency=medium
   * Bump Qt build-dependencies to 5.9.5.
   * Update Vcs fields for migration to salsa.debian.org.
   * Refresh patches for the new release.
+  * Update symbols files for the new release.
 
  -- Dmitry Shachnev <mitya57@ubuntu.com>  Sat, 14 Apr 2018 10:18:38 +0300
 
