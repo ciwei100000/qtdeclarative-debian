@@ -5,6 +5,7 @@ qtdeclarative-opensource-src (5.9.5-0ubuntu1) UNRELEASED; urgency=medium
   * Update Vcs fields for migration to salsa.debian.org.
   * Refresh patches for the new release.
   * Update symbols files for the new release.
+  * Bump qtdeclarative-abi-5-9-4 -> qtdeclarative-abi-5-9-5.
 
  -- Dmitry Shachnev <mitya57@ubuntu.com>  Sat, 14 Apr 2018 10:18:38 +0300
 
