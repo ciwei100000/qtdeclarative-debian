@@ -1,4 +1,4 @@
-qtdeclarative-opensource-src (5.9.5-0ubuntu2) UNRELEASED; urgency=medium
+qtdeclarative-opensource-src (5.9.5-0ubuntu1.1) bionic; urgency=medium
 
   * Cherry-pick upstream patch to fix memory leak in image slideshows in
     KDE Plasma (LP: #1761016).
