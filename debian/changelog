@@ -1,3 +1,9 @@
+qtdeclarative-opensource-src-gles (5.12.5-2build1) focal; urgency=medium
+
+  * No-change rebuild for libgcc-s1 package name change.
+
+ -- Matthias Klose <doko@ubuntu.com>  Tue, 24 Mar 2020 15:18:15 +0100
+
 qtdeclarative-opensource-src-gles (5.12.5-2) unstable; urgency=medium
 
   * Merge qtdeclarative-opensource-src 5.12.5-5 upload.
