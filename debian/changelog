@@ -1,3 +1,9 @@
+qtdeclarative-opensource-src (5.12.5-5build1) focal; urgency=medium
+
+  * No-change rebuild for libgcc-s1 package name change.
+
+ -- Matthias Klose <doko@ubuntu.com>  Tue, 24 Mar 2020 15:16:41 +0100
+
 qtdeclarative-opensource-src (5.12.5-5) unstable; urgency=medium
 
   * Link with -latomic on riscv64, based on a patch by Aurelien Jarno.
