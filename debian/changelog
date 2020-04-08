@@ -2,6 +2,7 @@ qtdeclarative-opensource-src (5.12.8-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream bugfix release.
   * Update debian/patches/fix_test_remove_qlibraryinfo.patch.
+  * Bump Qt build-dependencies to 5.12.8.
 
  -- Dmitry Shachnev <mitya57@ubuntu.com>  Wed, 08 Apr 2020 15:32:29 +0300
 
