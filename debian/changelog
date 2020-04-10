@@ -1,4 +1,4 @@
-qtdeclarative-opensource-src-gles (5.12.8-0ubuntu1) UNRELEASED; urgency=medium
+qtdeclarative-opensource-src-gles (5.12.8-0ubuntu1) focal; urgency=medium
 
   * Merge qtdeclarative-opensource-src 5.12.8-0ubuntu1 upload.
   * Bump libqt5qml5 build-dependency to 5.12.8.
