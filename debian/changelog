@@ -1,3 +1,10 @@
+qtdeclarative-opensource-src-gles (5.12.8-0ubuntu1) UNRELEASED; urgency=medium
+
+  * Merge qtdeclarative-opensource-src 5.12.8-0ubuntu1 upload.
+  * Bump libqt5qml5 build-dependency to 5.12.8.
+
+ -- Dmitry Shachnev <mitya57@ubuntu.com>  Fri, 10 Apr 2020 16:26:01 +0300
+
 qtdeclarative-opensource-src (5.12.8-0ubuntu1) focal; urgency=medium
 
   * New upstream bugfix release.
