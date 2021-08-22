@@ -1,3 +1,9 @@
+qtdeclarative-opensource-src (5.15.2+dfsg-6c1) unstable; urgency=medium
+
+  * Merge tag 'debian/5.15.2+dfsg-6' into ciwei100000
+
+ -- Xuqing Liu <ciwei100000@gmail.com>  Sun, 22 Aug 2021 07:55:44 -0700
+
 qtdeclarative-opensource-src (5.15.2+dfsg-6) unstable; urgency=medium
 
   * Backport patch to support &appos in styled text, along with it's
