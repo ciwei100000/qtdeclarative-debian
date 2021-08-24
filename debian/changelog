@@ -1,3 +1,9 @@
+qtdeclarative-opensource-src (5.15.2+dfsg-8c1) unstable; urgency=medium
+
+  * Merge tag 'debian/5.15.2+dfsg-8' into ciwei100000
+
+ -- Xuqing Liu <ciwei100000@gmail.com>  Tue, 24 Aug 2021 02:23:36 -0700
+
 qtdeclarative-opensource-src (5.15.2+dfsg-8) unstable; urgency=medium
 
   * Include <limits> in Yarr.h to fix FTBFS with GCC 11 on arm64 and i386.
