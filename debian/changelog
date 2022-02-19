@@ -1,3 +1,9 @@
+qtdeclarative-opensource-src (5.15.2+dfsg-10c1) unstable; urgency=medium
+
+  * Merge tag 'debian/5.15.2+dfsg-10' into ciwei100000
+
+ -- Xuqing Liu <ciwei100000@gmail.com>  Sat, 19 Feb 2022 10:55:09 -0800
+
 qtdeclarative-opensource-src (5.15.2+dfsg-10) unstable; urgency=medium
 
   * Backport upstream patch to fix sweep step for tainted QObject JavaScript
